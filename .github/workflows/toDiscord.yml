@@ -1,0 +1,34 @@
+name: Notification on push
+
+on:
+  release:
+    types: [published]
+    
+jobs:
+  animeback:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Discord notification
+      uses: LeGitHubDeTai/github-to-discord@main
+      env:
+        DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        DISCORD_USERNAME: NoaNews
+        DISCORD_AVATAR: https://raw.githubusercontent.com/LeGitHubDeTai/AnimeBack/main/icon.png
+        MESSAGE_TITLE: New Version
+        MESSAGE_DESCRIPTION: Noa
+        MESSAGE_URL: https://github.com/LeGitHubDeTai/Noa
+        MESSAGE_COLOR: 5814783
+  taistudio:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Discord notification
+      uses: LeGitHubDeTai/github-to-discord@main
+      env:
+        GITHUB_REPOSITORY: LeGitHubDeTai/Noa
+        DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK2 }}
+        DISCORD_USERNAME: Tai Studio
+        DISCORD_AVATAR: https://raw.githubusercontent.com/LeGitHubDeTai/github-to-discord/main/icon.png
+        MESSAGE_TITLE: New Version
+        MESSAGE_DESCRIPTION: Noa
+        MESSAGE_URL: https://github.com/LeGitHubDeTai/Noa
+        MESSAGE_COLOR: 5814783
