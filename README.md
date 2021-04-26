@@ -3,7 +3,7 @@
   <a href="https://legithubdetai.github.io/Noa/">
     <img src="https://img.shields.io/github/downloads/LeGitHubDeTai/Noa/total">
     <img src="https://img.shields.io/github/v/release/LeGitHubDeTai/Noa">
-    <img src="https://img.shields.io/website?url=http%3A%2F%2Flegithubdetai.github.io%Noa">
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Ftaistudio.github.io%Noa">
     <img src="https://img.shields.io/github/release-date/LeGitHubDeTai/Noa">
   </a>
   <a href="https://discord.gg/qnwf94HrJR">
