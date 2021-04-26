@@ -3,8 +3,9 @@
   <a href="https://legithubdetai.github.io/Noa/">
     <img src="https://img.shields.io/github/downloads/LeGitHubDeTai/Noa/total">
     <img src="https://img.shields.io/github/v/release/LeGitHubDeTai/Noa">
-    <img src="https://img.shields.io/website?url=https%3A%2F%2Ftaistudio.github.io%Noa">
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Ftaistudio.github.io%2FNoa%2F">
     <img src="https://img.shields.io/github/release-date/LeGitHubDeTai/Noa">
+    <img src="https://img.shields.io/github/license/TaiStudio/Noa">
   </a>
   <a href="https://discord.gg/qnwf94HrJR">
     <img src="https://img.shields.io/discord/834843096051089458">
