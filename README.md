@@ -27,6 +27,6 @@
 
 <p align='center'>
   <a href="https://github.com/TaiStudio/Noa/releases">
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FTaiStudio%Noa%2Fmain%2Fcustom.json">
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TaiStudio/Noa/main/custom.json">
   </a>
 </p>
