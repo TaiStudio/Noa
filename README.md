@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/website?url=http%3A%2F%2Flegithubdetai.github.io%Noa">
     <img src="https://img.shields.io/github/release-date/LeGitHubDeTai/Noa">
   </a>
-  <a href="https://discord.gg/zctFdAPUzP">
+  <a href="https://discord.gg/qnwf94HrJR">
     <img src="https://img.shields.io/discord/834843096051089458">
   </a>
   <br/>
