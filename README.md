@@ -1,4 +1,8 @@
 ![GitHub Logo](https://raw.githubusercontent.com/LeGitHubDeTai/Noa/main/assets/logo%20white.png?raw=true)
+
+<p align='center'>
+  <a href="https://buymeacoffee.com/taistudio" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee"></a>
+</p>
 <p align='center'>
   <a href="https://taistudio.github.io/Noa/">
     <img src="https://img.shields.io/github/downloads/TaiStudio/Noa/total">
